@@ -20,7 +20,8 @@ subtitle: "Черниговский авиаспортклуб"
 url: "http://progress.org.ua" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 #baseurl: "/airspace-jekyll"
-baseurl: ""
+#baseurl: "/progres.org.ua"
+#baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
