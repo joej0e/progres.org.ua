@@ -5,7 +5,7 @@ date:   2011-01-19
 categories: blog
 ---
 
-![]({{site.url}}/img/posts/1+1.jpg)
+![]({{site.baseurl}}/img/posts/1+1.jpg)
 
 1+1 предстваляє новий телевізійний проект “4-ри весілля”
 

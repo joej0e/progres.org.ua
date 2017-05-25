@@ -5,7 +5,7 @@ date:   2010-06-10
 categories: blog
 ---
 
-![]({{site.url}}/img/posts/news_100629.jpg)
+![]({{site.baseurl}}/img/posts/news_100629.jpg)
 
 Небольшая фотоподборка из серии «а как это у Них…».
 Тренировочные прыжки с парашютом на базе Pope Air Force Base (AFB), Северная Каролина. 21 июня 2010.
