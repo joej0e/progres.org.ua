@@ -20,7 +20,7 @@ keep_files:
 title: ЧАСК "Прогресс"
 subtitle: "Черниговский авиаспортклуб"
 description: Прыжки с парашютом в Киеве и Чернигове, обучение и тандем прыжок. Черниговский парашютный клуб &quot;Прогресс&quot; (тел. 067 460-17-12)
-url: "http://www.progress.org.ua" # the base hostname & protocol for your site
+url: "http://www.progres.org.ua" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 #baseurl: "/airspace-jekyll"
 #baseurl: "/progres.org.ua"
