@@ -31,6 +31,10 @@
 
 <script src="{{ site.baseurl }}/js/main.js"></script>
 
+
+{{ page.nanogallery2_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+{{ page.nanogallery2_js | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+
 {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
 
 <!--
