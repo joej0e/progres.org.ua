@@ -3,6 +3,8 @@ layout: post
 title:  Парашюту 99 лет
 date:   2010-12-03
 categories: blog
+tags: [parashyutnye-novosti]
+
 ---
 
 ![]({{site.baseurl}}/img/posts/gleb_kotel2.jpg)

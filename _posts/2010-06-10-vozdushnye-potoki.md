@@ -2,7 +2,10 @@
 layout: post
 title:  Воздушные потоки
 date:   2010-06-10
+anotherdate:   2010-06-29
 categories: blog
+tags: [parashyutnye-novosti]
+
 ---
 
 ![]({{site.baseurl}}/img/posts/news_100629.jpg)

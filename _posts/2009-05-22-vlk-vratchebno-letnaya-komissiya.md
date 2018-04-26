@@ -3,6 +3,8 @@ layout: post
 title:  ВЛК (врачебно летная комиссия)
 date:   2009-05-22
 categories: blog
+tags: [obyavleniya]
+
 ---
 
 ![]({{site.baseurl}}/img/posts/vlk.jpg)

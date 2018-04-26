@@ -3,6 +3,8 @@ layout: post
 title:  Весілля у небі від телеканалу 1+1
 date:   2011-01-19
 categories: blog
+tags: [parashyutnye-novosti]
+
 ---
 
 ![]({{site.baseurl}}/img/posts/1+1.jpg)

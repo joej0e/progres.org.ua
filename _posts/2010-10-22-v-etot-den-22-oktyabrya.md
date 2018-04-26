@@ -3,6 +3,8 @@ layout: post
 title:  В этот день — 22 октября
 date:   2010-10-22
 categories: blog
+tags: [parashyutnye-novosti]
+
 ---
 
 ![]({{site.baseurl}}/img/posts/skd_2.jpg)
