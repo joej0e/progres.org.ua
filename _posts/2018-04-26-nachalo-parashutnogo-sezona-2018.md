@@ -7,7 +7,7 @@ tags: [obyavleniya]
 
 ---
 
-![]({{site.baseurl}}/img/posts/2018-opening-new.jpg)
+![]({{site.baseurl}}/img/posts/2018-opening.jpg)
 
 На 28 квітня 2018 року планується відкриття сезону 2018 року!
 
