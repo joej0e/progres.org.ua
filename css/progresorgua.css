@@ -1,0 +1,34 @@
+#blogpost {
+  padding: 10px 0;
+}
+#blogpost .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#blogpost .block p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+/*
+#blogpost .block img {
+  padding-left: 40px;
+  max-width: 100%;
+}
+*/
+#blogpost .section-title {
+  margin-bottom: 0px;
+}
+#blogpost .section-title p {
+  padding-top: 20px;
+}
+#blogpost header {
+/*
+  background: #fff;
+  background-image: url("/img/header_n3.gif");
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 20px 0;
+*/
+  all: initial;
+}
