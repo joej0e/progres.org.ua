@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Початок парашутного сезону 2018
+title:  Парашутний сезон 2018 року відкрито!
 date:   2018-04-28
 categories: blog
 tags: [obyavleniya]
