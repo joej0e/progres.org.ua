@@ -9,7 +9,7 @@ tags: [obyavleniya]
 
 ![https://openclipart.org/detail/27134/cloud-seeding-by-plane](https://openclipart.org/download/27134/DooFi-Cloud-Seeding-by-plane.svg)
 
-Нажаль, погода не дає нам змоги сьогодні виконувати польоти,
+На превеликий жаль, погода не дає нам змоги сьогодні виконувати польоти,
 тож сьогодні підйомів не буде.
 
 Чекаємо на зустріч на наступному тижні!
