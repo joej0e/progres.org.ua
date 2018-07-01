@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Дощовий початок липня :unamused:
+title:  'Дощовий початок липня :unamused:'
 date:   2018-07-01
 categories: blog
 tags: [obyavleniya]

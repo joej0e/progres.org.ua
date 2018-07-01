@@ -1,8 +1,8 @@
-plugins:
-  - jemoji
+#plugins_dir: ./_plugins
 
-gems:
+plugins:
   - jekyll-redirect-from
+  - jemoji
 
 exclude:
   - "/vendor/"
