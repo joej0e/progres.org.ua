@@ -4,9 +4,9 @@ title:  Працюємо 23 та 24 червня!
 date:   2018-06-20
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/2018-06-20-announce.png)
 
 Так, ми знаємо, що на суботу, 23 червня, перенесли робочий день з 29 червня.

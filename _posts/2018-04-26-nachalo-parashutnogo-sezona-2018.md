@@ -4,9 +4,9 @@ title:  Початок парашутного сезону 2018
 date:   2018-04-26
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/2018-opening.jpg)
 
 На 28 квітня 2018 року планується відкриття сезону 2018 року!

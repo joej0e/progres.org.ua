@@ -4,9 +4,9 @@ title:  26-27 травня підйомів не буде
 date:   2018-05-21
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![](https://image.shutterstock.com/image-photo/sad-little-boy-red-soccer-jersey-260nw-310507916.jpg)
 
 26 травня 2018 на київському стадіоні НСК «Олімпійський» відбудеться фінальний матч розіграшу Ліги чемпіонів УЄФА 2017—2018.

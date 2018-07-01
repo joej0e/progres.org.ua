@@ -4,9 +4,9 @@ title:  Весілля у небі від телеканалу 1+1
 date:   2011-01-19
 categories: blog
 tags: [parashyutnye-novosti]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/1+1.jpg)
 
 1+1 предстваляє новий телевізійний проект “4-ри весілля”

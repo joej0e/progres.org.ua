@@ -5,9 +5,9 @@ date:   2010-06-10
 anotherdate:   2010-06-29
 categories: blog
 tags: [parashyutnye-novosti]
+lang: ru
 
 ---
-
 ![]({{site.baseurl}}/img/posts/news_100629.jpg)
 
 Небольшая фотоподборка из серии «а как это у Них…».

@@ -4,9 +4,9 @@ title:  Працюємо 9-го травня!
 date:   2018-05-07
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/2018-05-09-opened.jpg)
 
 У святковий вихідний день, 9-го травня 2018 року, синоптики обіцяють ясну погоду!

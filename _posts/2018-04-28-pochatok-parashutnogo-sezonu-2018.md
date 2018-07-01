@@ -4,9 +4,9 @@ title:  Парашутний сезон 2018 року відкрито!
 date:   2018-04-28
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/2018-opened.jpg)
 
 Парашутний сезон 2018 року відкрито! Відпрацювали 28-29 квітня.

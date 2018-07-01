@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Працюємо три дні&colon; 29, 30 червня та 1 липня!
+title:  "Працюємо три дні: 29, 30 червня та 1 липня!"
 date:   2018-06-25
 categories: blog
 tags: [obyavleniya]
+lang: uk
 
 ---
-
 ![]({{site.baseurl}}/img/posts/2018-06-25-announce.jpg)
 
 Ці вихідні у нас будуть розширеними: цілих три дні буде можливість

@@ -4,9 +4,9 @@ title:  Хорошие новости!
 date:   2007-04-25
 categories: blog
 tags: [obyavleniya]
+lang: ru
 
 ---
-
 ![]({{site.baseurl}}/img/posts/an2-fly.jpg)
 
 В субботу 14 апреля  открываем парашютный сезон в Черниговском АСК. Расценки на прыжки остаются прежними.
