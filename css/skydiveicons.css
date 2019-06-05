@@ -6,6 +6,7 @@ title: CSS Stylesheet for Skydiving Icons
 .skydive-p-round {
   background-image: url("https://openclipart.org/download/276600/Parachute-Silhouette-2.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   width: auto;
   height: auto;
   margin: 0;
@@ -14,8 +15,9 @@ title: CSS Stylesheet for Skydiving Icons
 /* https://openclipart.org/detail/260577/parachuting-man-silhouette */
 .skydive-p-ramair:before { content: "\0000a0\0000a0\0000a0"; }
 .skydive-p-ramair {
-  background-image: url("https://openclipart.org/download/260577/Parachuting-Man-Silhouette.svg");
+  background-image: url("{{site.baseurl}}/img/icons/skydive-p-ramair.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   width: auto;
   height: auto;
   margin: 0;
@@ -25,6 +27,17 @@ title: CSS Stylesheet for Skydiving Icons
 .skydive-p-tandem {
   background-image: url("{{site.baseurl}}/img/icons/skydive-p-tandem.svg");
   background-repeat: no-repeat;
+  background-size: contain;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.skydive-p-flight:before { content: "\0000a0\0000a0\0000a0"; }
+.skydive-p-flight {
+  background-image: url("{{site.baseurl}}/img/icons/skydive-p-flight.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
   width: auto;
   height: auto;
   margin: 0;
