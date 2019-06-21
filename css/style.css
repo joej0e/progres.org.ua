@@ -4,6 +4,10 @@
  *
  */
 
+.navbar-header {
+   width: 100%;   /*width for header*/
+ }
+
  .italic {
    font-style: italic;
  }
